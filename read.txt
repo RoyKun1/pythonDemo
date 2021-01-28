@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+
+This is a file in Windows git branch, named roykun
+=======
+This is a new branch
+>>>>>>> 0286f0733fbdc8eec0b33aaad9eefccbc7d84f3a
